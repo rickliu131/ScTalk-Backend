@@ -2,7 +2,7 @@
 Backend code for <a href='https://github.com/rickliu131/ScTalk'>ScTalk</a>
 
 # Implementation
-Express.js + Socket-IO
+Express.js + Socket.IO
 
 # Usage
 1. Clone the code to local. `cd` to the cloned directory.<br>
