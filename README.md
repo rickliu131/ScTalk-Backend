@@ -11,3 +11,6 @@ Express.js + Socket.IO
 4. Place your TLS certificate and key to the `tls` directory.
 5. Edit `tls.js`.<br>Change `cert` and `key` in `module.exports` to the filenames of your certificate and key.
 6. `nodemon app.js`<br>Start running the back-end program using `nodemon` (listening on port `443`)
+
+# Author
+Yuxuan Liu
