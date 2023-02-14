@@ -2,7 +2,8 @@
 Backend code for <a href='https://github.com/rickliu131/ScTalk'>ScTalk</a>
 
 # Implementation
-Express.js + Socket.IO
+Express.js + Socket.IO<br>
+Messages sent by the users are not stored locally. Room info and user uploaded files are stored temperarily in the lifespan of a room.
 
 # Usage
 1. Clone the code to local. `cd` to the cloned directory.<br>
